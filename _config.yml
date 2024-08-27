@@ -21,17 +21,17 @@
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./image/profile_1.jpg"
+  avatar           : "./image/profile_1.png"
   name             : "Li, Jiameng"
   bio              : "Master Student in Computer Vision"
   location         : "Germany"
   employer         : "University of Stuttgart"
-  URI              : "https://renaissanceee.github.io/"
+  URI              : "https://github.com/renaissanceee"
   email            : "st179481@stud.uni-stuttgart.de" 
 
   # Academic websites
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  github           : "https://renaissanceee.github.io/"
+  github           : "https://github.com/renaissanceee"
 
 
 # Publication Category - The following the list of publication categories and their headings

@@ -22,8 +22,8 @@ url                      : https://renaissanceee.github.io # the base hostname &
 author:
   # Biographic information
   # avatar           : "./images/profile1.png"
-  avatar           : "images/profile.png"
-  # avatar           : "profile1.png"
+  # avatar           : "images/profile.png"
+  avatar           : "profile1.png"
   name             : "Li, Jiameng (李佳萌)"
   bio              : "Master Student in Computer Vision"
   location         : "Germany"

@@ -21,12 +21,12 @@
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./image/profile_1.png"
+  avatar           : "./images/profile_1.png"
   name             : "Li, Jiameng"
   bio              : "Master Student in Computer Vision"
   location         : "Germany"
   employer         : "University of Stuttgart"
-  URI              : "https://github.com/renaissanceee"
+  URI              : "https://renaissanceee.github.io"
   email            : "st179481@stud.uni-stuttgart.de" 
 
   # Academic websites

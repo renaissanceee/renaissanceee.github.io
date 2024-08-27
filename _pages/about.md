@@ -20,9 +20,10 @@ I'm looking for PhD positions.
 </a>
 
 ***[Jiameng Li](https://renaissanceee.github.io/)**, [Yue shi](https://shiyue001.github.io/), [Jiezhang Cao](https://www.jiezhangcao.com/), Bingbing Ni, Wenjun Zhang, Kai Zhang, Luc Van Gool*
+
 </span>
 
-<p>
+<p style="margin-top: 0;">
   <a href="">
     <img src="./images/mipmap_logo.png" alt="Logo" width="50%">
   </a>

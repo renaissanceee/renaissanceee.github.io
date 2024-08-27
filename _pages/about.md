@@ -14,7 +14,6 @@ I'm a third-year master student from [University of Stuttgart](https://www.uni-s
 ## Recent News
 I'm looking for PhD positions.
 ## Publications
-# <span style="color:black;">[Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering](https://arxiv.org/abs/2408.06286)</span>
 <span style="color:black;">
 <a href="https://arxiv.org/abs/2408.06286" style="color:black; text-decoration:none;">
 **Mipmap-GS**: *Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering*

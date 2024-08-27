@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year master student from [University of Stuttgart] (https://www.uni-stuttgart.de/en/), Germany. My research interests include computer vision and neural rendering. Before that, I got my bachelor degree from [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/) in 2021.
+I'm a third-year master student from [University of Stuttgart](https://www.uni-stuttgart.de/en/), Germany. My research interests include computer vision and neural rendering. Before that, I got my bachelor degree from [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/) in 2021.
 
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 

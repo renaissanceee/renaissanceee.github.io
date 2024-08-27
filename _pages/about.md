@@ -18,8 +18,12 @@ I'm looking for PhD positions.
 <a href="https://arxiv.org/abs/2408.06286" style="color:black; text-decoration:none;">
 **Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering**
 </a>
-</span>
+
 ***[Jiameng Li](https://renaissanceee.github.io/)**, [Yue shi](https://shiyue001.github.io/), [Jiezhang Cao](https://www.jiezhangcao.com/), Bingbing Ni, Wenjun Zhang, Kai Zhang, Luc Van Gool*
+
+
+</span>
+
 <p>
   <a href="">
     <img src="./images/mipmap_logo.png" alt="Logo" width="50%">

@@ -11,3 +11,7 @@ I'm a third-year master student from [University of Stuttgart](https://www.uni-s
 
 [CV](../assets/cv_github.pdf)/[Email](mailto:st179481@stud.uni-stuttgart.de) / [Github](https://github.com/renaissanceee) / [Wechat](../images/wechat.jpg).
 
+## Recent News
+I'm looking for PhD positions.
+## Publications
+Mipmap-GS

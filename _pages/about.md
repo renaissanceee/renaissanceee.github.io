@@ -11,10 +11,9 @@ I'm a third-year master student from University of Stuttgart, Germany. My resear
 
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
-You can find my CV here: [Jiameng's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my [CV](../assets/Curriculum_Vitae.pdf) here.
 
 [Email](mailto:st179481@stud.uni-stuttgart.de) / [Github](https://github.com/renaissanceee) / [Wechat](../images/wechat.jpg).
-————————————————
 
 
 A data-driven personal website

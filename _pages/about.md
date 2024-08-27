@@ -14,7 +14,7 @@ I'm a third-year master student from [University of Stuttgart](https://www.uni-s
 ## Recent News
 I'm looking for PhD positions.
 ## Publications
-<span style="color:black;">[Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering](https://arxiv.org/abs/2408.06286)<span>
+<span style="color:black;">[Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering](https://arxiv.org/abs/2408.06286)</span>
 
 ***[Jiameng Li](https://renaissanceee.github.io/)**, [Yue shi](https://shiyue001.github.io/), [Jiezhang Cao](https://www.jiezhangcao.com/), Bingbing Ni, Wenjun Zhang, Kai Zhang, Luc Van Gool*
 

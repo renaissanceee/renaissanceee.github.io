@@ -21,7 +21,7 @@ I'm looking for PhD positions.
 </span>
 
 ***[Jiameng Li](https://renaissanceee.github.io/)**, [Yue shi](https://shiyue001.github.io/), [Jiezhang Cao](https://www.jiezhangcao.com/), Bingbing Ni, Wenjun Zhang, Kai Zhang, Luc Van Gool*
-<p align="center">
+<p>
   <a href="">
     <img src="./images/mipmap_logo.png" alt="Logo" width="95%">
   </a>

@@ -12,7 +12,7 @@ I'm a third-year master student from [University of Stuttgart](https://www.uni-s
 [CV](../assets/cv_github.pdf) / [Email](mailto:st179481@stud.uni-stuttgart.de) / [Github](https://github.com/renaissanceee) / [Wechat](../images/wechat.jpg).
 
 ## Recent News
-I'm looking for PhD positions.
+I'll start my PhD journey in KULeven.
 ## Publications
 <span style="color:black;">
   <a href="https://arxiv.org/abs/2408.06286" style="color:black; text-decoration:none;">

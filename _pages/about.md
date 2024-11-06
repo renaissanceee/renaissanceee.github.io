@@ -36,8 +36,8 @@ I'll start my PhD journey in KULeven.
       </em>
     </p>
     <p style="margin: 5px 0;">
-      <a href="https://arxiv.org/abs/2408.06286">**Paper**</a> | 
-      <a href="https://github.com/renaissanceee/Mipmap-GS">**Code**</a>
+      <a href="https://arxiv.org/abs/2408.06286">Paper</a> | 
+      <a href="https://github.com/renaissanceee/Mipmap-GS">Code</a>
     </p>
   </div>
 </div>

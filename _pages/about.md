@@ -16,9 +16,9 @@ I'll start my PhD journey in KULeven.
 ## Publications
 <div style="display: flex; align-items: center;">
   <!-- 左边的图片 -->
-  <div style="flex: 0 0 auto; margin-right: 20px;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
     <a href="https://arxiv.org/abs/2408.06286">
-      <img src="./images/mipmap_logo.png" alt="Logo" width="200" style="max-width: 100%; height: auto;">
+      <img src="./images/mipmap_logo.png" alt="Logo" width="300" style="max-width: 100%; height: auto;">
     </a>
   </div>
 

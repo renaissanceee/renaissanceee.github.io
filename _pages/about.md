@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year master student from [University of Stuttgart](https://www.uni-stuttgart.de/en/), Germany. My research interests include computer vision, neural rendering and generative models. Before that, I got my bachelor degree from [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/), China in 2021.
+I'm a first-year PhD student in [KULeuven](https://www.kuleuven.be/english/kuleuven/). My research interests lie in 3D computer vision, including neural rendering and medical imaging. Before that, I got my bachelor degree from [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/), and master degree from [University of Stuttgart](https://www.uni-stuttgart.de/en/).
 
 [CV](../assets/cv_github.pdf) / [Wechat](../images/wechat.jpg).
 
 ## Recent News
-I'll start my PhD journey in KULeven.
+Our Mipmap-GS was accepted by 3DV'25.
 ## Publications
 <div style="display: flex; align-items: center;">
   <!-- 左边的图片 -->

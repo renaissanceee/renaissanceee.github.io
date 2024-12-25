@@ -25,11 +25,11 @@ author:
   # avatar           : "images/profile.png"
   avatar           : "profile1.png"
   name             : "Li, Jiameng (李佳萌)"
-  bio              : "Master Student in Computer Vision"
-  location         : "Germany"
-  employer         : "University of Stuttgart"
+  bio              : "PhD Student in Computer Vision"
+  location         : "Belgium"
+  employer         : "KULeuven"
   URI              : "https://renaissanceee.github.io"
-  email            : "st179481@stud.uni-stuttgart.de" 
+  email            : "jiameng.li@student.kuleuven.be" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=iBtFPiEAAAAJ&hl"

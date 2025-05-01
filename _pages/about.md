@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year PhD student in [KULeuven](https://www.kuleuven.be/english/kuleuven/). My research interests lie in 3D computer vision, including neural rendering and medical imaging. Before that, I got my bachelor degree from [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/), and master degree from [University of Stuttgart](https://www.uni-stuttgart.de/en/).
+I'm a first-year PhD student in [KU Leuven](https://www.kuleuven.be/english/kuleuven/). My research interests lie in 3D computer vision, including neural rendering and medical imaging. Before that, I got my bachelor degree from [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/), and master degree from [University of Stuttgart](https://www.uni-stuttgart.de/en/).
 
 [CV](../assets/cv_github.pdf) / [Wechat](../images/wechat.jpg).
 

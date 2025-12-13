@@ -9,7 +9,8 @@ redirect_from:
 
 I'm a first-year PhD student in [KU Leuven](https://www.kuleuven.be/english/kuleuven/). My research interests lie in 3D computer vision, including neural rendering and medical imaging. Before that, I got my bachelor degree from [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/), and master degree from [University of Stuttgart](https://www.uni-stuttgart.de/en/).
 
-[CV](../assets/cv_github.pdf) / [Wechat](../images/wechat.jpg).
+
+<!-- [CV](../assets/cv_github.pdf) / [Wechat](../images/wechat.jpg). -->
 
 ## Recent News
 Our Mipmap-GS was accepted by 3DV'25.

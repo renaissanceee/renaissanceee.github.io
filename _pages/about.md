@@ -12,12 +12,14 @@ I'm a second-year PhD student in [KU Leuven](https://www.kuleuven.be/english/kul
 
 ## Publications
 <div style="display: flex; align-items: center;">
+  
   <!-- 左边的图片 -->
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <a href="https://arxiv.org/pdf/2511.19199">
       <img src="./images/clash_logo.png" alt="Logo" width="300" style="max-width: 100%; height: auto;">
     </a>
   </div>
+  
   <!-- 右边的文字内容 -->
   <div style="flex: 1;">
     <p style="margin: 0;">
@@ -41,6 +43,7 @@ I'm a second-year PhD student in [KU Leuven](https://www.kuleuven.be/english/kul
       <img src="./images/care_logo.png" alt="Logo" width="300" style="max-width: 100%; height: auto;">
     </a>
   </div>
+  
   <!-- 右边的文字内容 -->
   <div style="flex: 1;">
     <p style="margin: 0;">

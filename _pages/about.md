@@ -7,11 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year PhD student in <a href="https://www.kuleuven.be/english/kuleuven/" style="color: black; text-decoration: none;">KU Leuven</a>. My research interests lie in 3D computer vision and multimodal LLMs. Before that, I got my bachelor degree from <a href="https://english.bit.edu.cn/" style="color: black; text-decoration: none;">Beijing Institute of Technology (BIT)</a>, and master degree from <a href="https://www.uni-stuttgart.de/en/" style="color: black; text-decoration: none;">University of Stuttgart</a>.
 
-## Publications
+<div style="font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', cursive, sans-serif;">
+  I'm a second-year PhD student in <a href="https://www.kuleuven.be/english/kuleuven/" style="color: black; text-decoration: none;">KU Leuven</a>, supervised by <a href="https://homes.esat.kuleuven.be/~mblaschk/" style="color: black; text-decoration: none;">Prof. Matthew Blaschko</a>. My research interests lie in 3D computer vision and multimodal LLMs. Before that, I got my bachelor degree from <a href="https://english.bit.edu.cn/" style="color: black; text-decoration: none;">Beijing Institute of Technology (BIT)</a>, and master degree from <a href="https://www.uni-stuttgart.de/en/" style="color: black; text-decoration: none;">University of Stuttgart</a>.
+</div>
 
-<div style="display: flex; align-items: center; margin-bottom: 30px; font-family: sans-serif;">
+<h2 style="font-family: 'Comic Sans MS', cursive, sans-serif;">Publications</h2>
+
+<div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <a href="https://arxiv.org/pdf/2604.03072">
       <img src="./images/mi_logo.png" alt="MI Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
@@ -34,7 +37,7 @@ I'm a second-year PhD student in <a href="https://www.kuleuven.be/english/kuleuv
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 30px; font-family: sans-serif;">
+<div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <a href="https://arxiv.org/pdf/2511.19199">
       <img src="./images/clash_logo.png" alt="CLASH Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
@@ -57,7 +60,7 @@ I'm a second-year PhD student in <a href="https://www.kuleuven.be/english/kuleuv
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 30px; font-family: sans-serif;">
+<div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <a href="https://arxiv.org/pdf/2505.19585">
       <img src="./images/care_logo.png" alt="CARE Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
@@ -80,7 +83,7 @@ I'm a second-year PhD student in <a href="https://www.kuleuven.be/english/kuleuv
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 30px; font-family: sans-serif;">
+<div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <a href="https://arxiv.org/pdf/2408.06286">
       <img src="./images/mipmap_logo.png" alt="Mipmap-GS Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">

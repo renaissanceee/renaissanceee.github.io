@@ -11,23 +11,20 @@ I'm a second-year PhD student in [KU Leuven](https://www.kuleuven.be/english/kul
 
 
 ## Publications
-<div style="display: flex; align-items: center;">
-  
-  <!-- 左边的图片 -->
+
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <a href="https://arxiv.org/pdf/2511.19199">
-      <img src="./images/clash_logo.png" alt="Logo" width="300" style="max-width: 100%; height: auto;">
+      <img src="./images/clash_logo.png" alt="CLASH Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
     </a>
   </div>
-  
-  <!-- 右边的文字内容 -->
   <div style="flex: 1;">
     <p style="margin: 0;">
       <a href="https://arxiv.org/pdf/2511.19199" style="color:black; text-decoration:none;">
-        <strong> [CVPR'26 Findings] CLASH: A Benchmark for Cross-Modal Contradiction Detection</strong>
+        <strong>[CVPR'26 Findings] CLASH: A Benchmark for Cross-Modal Contradiction Detection</strong>
       </a><br>
       <em>
-        Teodora Popordanoska*, <a href="https://renaissanceee.github.io/">Jiameng Li*</a>,, Matthew B. Blaschko
+        Teodora Popordanoska*, <a href="https://renaissanceee.github.io/">Jiameng Li*</a>, Matthew B. Blaschko
       </em>
     </p>
     <p style="margin: 5px 0;">
@@ -36,23 +33,20 @@ I'm a second-year PhD student in [KU Leuven](https://www.kuleuven.be/english/kul
     </p>
   </div>
 </div>
-  
-  <!-- 左边的图片 -->
+
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <a href="https://arxiv.org/pdf/2505.19585">
-      <img src="./images/care_logo.png" alt="Logo" width="300" style="max-width: 100%; height: auto;">
+      <img src="./images/care_logo.png" alt="CARE Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
     </a>
   </div>
-  
-  <!-- 右边的文字内容 -->
   <div style="flex: 1;">
     <p style="margin: 0;">
       <a href="https://arxiv.org/pdf/2505.19585" style="color:black; text-decoration:none;">
-        <strong> [MIDL'26] CARE: Confidence-aware Ratio Estimation for Medical Biomarkers</strong>
+        <strong>[MIDL'26] CARE: Confidence-aware Ratio Estimation for Medical Biomarkers</strong>
       </a><br>
       <em>
-        <a href="https://renaissanceee.github.io/">Jiameng Li</a>,
-        Teodora Popordanoska, Aleksei Tiulpin, Sebastian G. Gruber, Frederik Maes, Matthew B. Blaschko
+        <a href="https://renaissanceee.github.io/">Jiameng Li</a>, Teodora Popordanoska, Aleksei Tiulpin, Sebastian G. Gruber, Frederik Maes, Matthew B. Blaschko
       </em>
     </p>
     <p style="margin: 5px 0;">
@@ -62,25 +56,19 @@ I'm a second-year PhD student in [KU Leuven](https://www.kuleuven.be/english/kul
   </div>
 </div>
 
-<div style="display: flex; align-items: center;">
-  <!-- 左边的图片 -->
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <a href="https://arxiv.org/pdf/2408.06286">
-      <img src="./images/mipmap_logo.png" alt="Logo" width="300" style="max-width: 100%; height: auto;">
+      <img src="./images/mipmap_logo.png" alt="Mipmap-GS Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
     </a>
   </div>
-
-  <!-- 右边的文字内容 -->
   <div style="flex: 1;">
     <p style="margin: 0;">
       <a href="https://arxiv.org/pdf/2408.06286" style="color:black; text-decoration:none;">
-        <strong> [3DV'25] Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering</strong>
+        <strong>[3DV'25] Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering</strong>
       </a><br>
       <em>
-        <a href="https://renaissanceee.github.io/">Jiameng Li</a>,
-        <a href="https://shiyue001.github.io/">Yue Shi</a>,
-        <a href="https://www.jiezhangcao.com/">Jiezhang Cao</a>,
-        Bingbing Ni, Wenjun Zhang, Kai Zhang, Luc Van Gool
+        <a href="https://renaissanceee.github.io/">Jiameng Li</a>, <a href="https://shiyue001.github.io/">Yue Shi</a>, <a href="https://www.jiezhangcao.com/">Jiezhang Cao</a>, Bingbing Ni, Wenjun Zhang, Kai Zhang, Luc Van Gool
       </em>
     </p>
     <p style="margin: 5px 0;">

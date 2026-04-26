@@ -27,7 +27,7 @@ I'm a second-year PhD student in [KU Leuven](https://www.kuleuven.be/english/kul
         <strong>MI-Pruner: Crossmodal Mutual Information-guided Token Pruner for Efficient MLLMs</strong>
       </a><br>
       <em style="font-size: 0.95em;">
-        <a href="https://renaissanceee.github.io/">Jiameng Li*</a>, Aleksei Tiulpin, Matthew B. Blaschko
+        <a href="https://renaissanceee.github.io/">Jiameng Li</a>, Aleksei Tiulpin, Matthew B. Blaschko
       </em>
     </p>
     <p style="margin: 5px 0;">

@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year PhD student in [KU Leuven](https://www.kuleuven.be/english/kuleuven/). My research interests lie in 3D computer vision and multimodal LLMs. Before that, I got my bachelor degree from [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/), and master degree from [University of Stuttgart](https://www.uni-stuttgart.de/en/).
-
+I'm a second-year PhD student in <a href="https://www.kuleuven.be/english/kuleuven/" style="color: black; text-decoration: none;">KU Leuven</a>. My research interests lie in 3D computer vision and multimodal LLMs. Before that, I got my bachelor degree from <a href="https://english.bit.edu.cn/" style="color: black; text-decoration: none;">Beijing Institute of Technology (BIT)</a>, and master degree from <a href="https://www.uni-stuttgart.de/en/" style="color: black; text-decoration: none;">University of Stuttgart</a>.
 
 ## Publications
 
@@ -25,12 +24,12 @@ I'm a second-year PhD student in [KU Leuven](https://www.kuleuven.be/english/kul
         <strong>MI-Pruner: Crossmodal Mutual Information-guided Token Pruner for Efficient MLLMs</strong>
       </a><br>
       <em style="font-size: 0.95em; color: black;">
-        <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none; font-weight: bold;">Jiameng Li</a>, Aleksei Tiulpin, Matthew B. Blaschko
+        <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none;">Jiameng Li</a>, Aleksei Tiulpin, Matthew B. Blaschko
       </em>
     </p>
     <p style="margin: 5px 0;">
-      <a href="https://arxiv.org/pdf/2604.03072" style="font-size: 0.9em; color: #4A90E2;">Paper</a> | 
-      <a href="https://github.com/renaissanceee/MI-Pruner" style="font-size: 0.9em; color: #4A90E2;">Code</a>
+      <a href="https://arxiv.org/pdf/2604.03072" style="font-size: 0.9em; color: #4A90E2; text-decoration: none;">Paper</a> | 
+      <a href="https://github.com/renaissanceee/MI-Pruner" style="font-size: 0.9em; color: #4A90E2; text-decoration: none;">Code</a>
     </p>
   </div>
 </div>
@@ -48,12 +47,12 @@ I'm a second-year PhD student in [KU Leuven](https://www.kuleuven.be/english/kul
         <strong>CLASH: A Benchmark for Cross-Modal Contradiction Detection</strong>
       </a><br>
       <em style="font-size: 0.95em; color: black;">
-        Teodora Popordanoska*, <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none; font-weight: bold;">Jiameng Li*</a>, Matthew B. Blaschko
+        Teodora Popordanoska*, <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none;">Jiameng Li*</a>, Matthew B. Blaschko
       </em>
     </p>
     <p style="margin: 5px 0;">
-      <a href="https://arxiv.org/pdf/2511.19199" style="font-size: 0.9em; color: #4A90E2;">Paper</a> | 
-      <a href="https://github.com/tpopordanoska/clash" style="font-size: 0.9em; color: #4A90E2;">Code</a>
+      <a href="https://arxiv.org/pdf/2511.19199" style="font-size: 0.9em; color: #4A90E2; text-decoration: none;">Paper</a> | 
+      <a href="https://github.com/tpopordanoska/clash" style="font-size: 0.9em; color: #4A90E2; text-decoration: none;">Code</a>
     </p>
   </div>
 </div>
@@ -71,12 +70,12 @@ I'm a second-year PhD student in [KU Leuven](https://www.kuleuven.be/english/kul
         <strong>CARE: Confidence-aware Ratio Estimation for Medical Biomarkers</strong>
       </a><br>
       <em style="font-size: 0.95em; color: black;">
-        <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none; font-weight: bold;">Jiameng Li</a>, Teodora Popordanoska, Aleksei Tiulpin, Sebastian G. Gruber, Frederik Maes, Matthew B. Blaschko
+        <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none;">Jiameng Li</a>, Teodora Popordanoska, Aleksei Tiulpin, Sebastian G. Gruber, Frederik Maes, Matthew B. Blaschko
       </em>
     </p>
     <p style="margin: 5px 0;">
-      <a href="https://arxiv.org/pdf/2505.19585" style="font-size: 0.9em; color: #4A90E2;">Paper</a> | 
-      <a href="https://github.com/renaissanceee/care" style="font-size: 0.9em; color: #4A90E2;">Code</a>
+      <a href="https://arxiv.org/pdf/2505.19585" style="font-size: 0.9em; color: #4A90E2; text-decoration: none;">Paper</a> | 
+      <a href="https://github.com/renaissanceee/care" style="font-size: 0.9em; color: #4A90E2; text-decoration: none;">Code</a>
     </p>
   </div>
 </div>
@@ -94,15 +93,15 @@ I'm a second-year PhD student in [KU Leuven](https://www.kuleuven.be/english/kul
         <strong>Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering</strong>
       </a><br>
       <em style="font-size: 0.95em; color: black;">
-        <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none; font-weight: bold;">Jiameng Li</a>, 
+        <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none;">Jiameng Li</a>, 
         <a href="https://shiyue001.github.io/" style="color: black; text-decoration: none;">Yue Shi</a>, 
         <a href="https://www.jiezhangcao.com/" style="color: black; text-decoration: none;">Jiezhang Cao</a>, 
         Bingbing Ni, Wenjun Zhang, Kai Zhang, Luc Van Gool
       </em>
     </p>
     <p style="margin: 5px 0;">
-      <a href="https://arxiv.org/pdf/2408.06286" style="font-size: 0.9em; color: #4A90E2;">Paper</a> | 
-      <a href="https://github.com/renaissanceee/Mipmap-GS" style="font-size: 0.9em; color: #4A90E2;">Code</a>
+      <a href="https://arxiv.org/pdf/2408.06286" style="font-size: 0.9em; color: #4A90E2; text-decoration: none;">Paper</a> | 
+      <a href="https://github.com/renaissanceee/Mipmap-GS" style="font-size: 0.9em; color: #4A90E2; text-decoration: none;">Code</a>
     </p>
   </div>
 </div>

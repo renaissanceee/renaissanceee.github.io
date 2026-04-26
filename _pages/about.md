@@ -83,7 +83,7 @@ I'm a second-year PhD student in [KU Leuven](https://www.kuleuven.be/english/kul
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 30px;">
+<div style="display: flex; align-items: center; margin-bottom: 30px; font-family: sans-serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <a href="https://arxiv.org/pdf/2408.06286">
       <img src="./images/mipmap_logo.png" alt="Mipmap-GS Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
@@ -95,13 +95,16 @@ I'm a second-year PhD student in [KU Leuven](https://www.kuleuven.be/english/kul
         <span style="color: #666; font-weight: bold;">[3DV'25]</span> 
         <strong>Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering</strong>
       </a><br>
-      <em style="font-size: 0.95em;">
-        <a href="https://renaissanceee.github.io/">Jiameng Li</a>, <a href="https://shiyue001.github.io/">Yue Shi</a>, <a href="https://www.jiezhangcao.com/">Jiezhang Cao</a>, Bingbing Ni, Wenjun Zhang, Kai Zhang, Luc Van Gool
+      <em style="font-size: 0.95em; color: black; font-style: normal;">
+        <a href="https://renaissanceee.github.io/" style="color: blue; text-decoration: none; font-weight: bold;">Jiameng Li</a>, 
+        <a href="https://shiyue001.github.io/" style="color: black; text-decoration: none;">Yue Shi</a>, 
+        <a href="https://www.jiezhangcao.com/" style="color: black; text-decoration: none;">Jiezhang Cao</a>, 
+        Bingbing Ni, Wenjun Zhang, Kai Zhang, Luc Van Gool
       </em>
     </p>
     <p style="margin: 5px 0;">
-      <a href="https://arxiv.org/pdf/2408.06286" style="font-size: 0.9em;">Paper</a> | 
-      <a href="https://github.com/renaissanceee/Mipmap-GS" style="font-size: 0.9em;">Code</a>
+      <a href="https://arxiv.org/pdf/2408.06286" style="font-size: 0.9em; color: #007bff;">Paper</a> | 
+      <a href="https://github.com/renaissanceee/Mipmap-GS" style="font-size: 0.9em; color: #007bff;">Code</a>
     </p>
   </div>
 </div>

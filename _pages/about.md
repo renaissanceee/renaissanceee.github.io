@@ -12,6 +12,31 @@ I'm a second-year PhD student in [KU Leuven](https://www.kuleuven.be/english/kul
 
 ## Publications
 
+## Publications
+
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <a href="https://arxiv.org/pdf/2604.03072">
+      <img src="./images/mi_logo.png" alt="MI Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
+    </a>
+  </div>
+  <div style="flex: 1;">
+    <p style="margin: 0;">
+      <a href="https://arxiv.org/pdf/2604.03072" style="color:black; text-decoration:none;">
+        <span style="color: #666; font-weight: bold;">[preprint]</span> 
+        <strong>MI-Pruner: Crossmodal Mutual Information-guided Token Pruner for Efficient MLLMs</strong>
+      </a><br>
+      <em style="font-size: 0.95em;">
+        <a href="https://renaissanceee.github.io/">Jiameng Li*</a>, Aleksei Tiulpin, Matthew B. Blaschko
+      </em>
+    </p>
+    <p style="margin: 5px 0;">
+      <a href="https://arxiv.org/pdf/2604.03072" style="font-size: 0.9em;">Paper</a> | 
+      <a href="https://github.com/renaissanceee/MI-Pruner" style="font-size: 0.9em;">Code</a>
+    </p>
+  </div>
+</div>
+
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <a href="https://arxiv.org/pdf/2511.19199">
@@ -21,15 +46,16 @@ I'm a second-year PhD student in [KU Leuven](https://www.kuleuven.be/english/kul
   <div style="flex: 1;">
     <p style="margin: 0;">
       <a href="https://arxiv.org/pdf/2511.19199" style="color:black; text-decoration:none;">
-        <strong>[CVPR'26 Findings] CLASH: A Benchmark for Cross-Modal Contradiction Detection</strong>
+        <span style="color: #666; font-weight: bold;">[CVPR'26 Findings]</span> 
+        <strong>CLASH: A Benchmark for Cross-Modal Contradiction Detection</strong>
       </a><br>
-      <em>
+      <em style="font-size: 0.95em;">
         Teodora Popordanoska*, <a href="https://renaissanceee.github.io/">Jiameng Li*</a>, Matthew B. Blaschko
       </em>
     </p>
     <p style="margin: 5px 0;">
-      <a href="https://arxiv.org/pdf/2511.19199">Paper</a> | 
-      <a href="https://github.com/tpopordanoska/clash">Code</a>
+      <a href="https://arxiv.org/pdf/2511.19199" style="font-size: 0.9em;">Paper</a> | 
+      <a href="https://github.com/tpopordanoska/clash" style="font-size: 0.9em;">Code</a>
     </p>
   </div>
 </div>
@@ -43,15 +69,16 @@ I'm a second-year PhD student in [KU Leuven](https://www.kuleuven.be/english/kul
   <div style="flex: 1;">
     <p style="margin: 0;">
       <a href="https://arxiv.org/pdf/2505.19585" style="color:black; text-decoration:none;">
-        <strong>[MIDL'26] CARE: Confidence-aware Ratio Estimation for Medical Biomarkers</strong>
+        <span style="color: #666; font-weight: bold;">[MIDL'26]</span> 
+        <strong>CARE: Confidence-aware Ratio Estimation for Medical Biomarkers</strong>
       </a><br>
-      <em>
+      <em style="font-size: 0.95em;">
         <a href="https://renaissanceee.github.io/">Jiameng Li</a>, Teodora Popordanoska, Aleksei Tiulpin, Sebastian G. Gruber, Frederik Maes, Matthew B. Blaschko
       </em>
     </p>
     <p style="margin: 5px 0;">
-      <a href="https://arxiv.org/pdf/2505.19585">Paper</a> | 
-      <a href="https://github.com/renaissanceee/care">Code</a>
+      <a href="https://arxiv.org/pdf/2505.19585" style="font-size: 0.9em;">Paper</a> | 
+      <a href="https://github.com/renaissanceee/care" style="font-size: 0.9em;">Code</a>
     </p>
   </div>
 </div>
@@ -65,17 +92,17 @@ I'm a second-year PhD student in [KU Leuven](https://www.kuleuven.be/english/kul
   <div style="flex: 1;">
     <p style="margin: 0;">
       <a href="https://arxiv.org/pdf/2408.06286" style="color:black; text-decoration:none;">
-        <strong>[3DV'25] Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering</strong>
+        <span style="color: #666; font-weight: bold;">[3DV'25]</span> 
+        <strong>Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering</strong>
       </a><br>
-      <em>
+      <em style="font-size: 0.95em;">
         <a href="https://renaissanceee.github.io/">Jiameng Li</a>, <a href="https://shiyue001.github.io/">Yue Shi</a>, <a href="https://www.jiezhangcao.com/">Jiezhang Cao</a>, Bingbing Ni, Wenjun Zhang, Kai Zhang, Luc Van Gool
       </em>
     </p>
     <p style="margin: 5px 0;">
-      <a href="https://arxiv.org/pdf/2408.06286">Paper</a> | 
-      <a href="https://github.com/renaissanceee/Mipmap-GS">Code</a>
+      <a href="https://arxiv.org/pdf/2408.06286" style="font-size: 0.9em;">Paper</a> | 
+      <a href="https://github.com/renaissanceee/Mipmap-GS" style="font-size: 0.9em;">Code</a>
     </p>
   </div>
 </div>
-
 

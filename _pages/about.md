@@ -7,12 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-
 <div style="font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', cursive, sans-serif;">
-  I'm a second-year PhD student in <a href="https://www.kuleuven.be/english/kuleuven/" style="color: black; text-decoration: none;">KU Leuven</a>, supervised by <a href="https://homes.esat.kuleuven.be/~mblaschk/" style="color: black; text-decoration: none;">Prof. Matthew Blaschko</a>. My research interests lie in 3D computer vision and multimodal LLMs. Before that, I got my bachelor degree from <a href="https://english.bit.edu.cn/" style="color: black; text-decoration: none;">Beijing Institute of Technology (BIT)</a>, and master degree from <a href="https://www.uni-stuttgart.de/en/" style="color: black; text-decoration: none;">University of Stuttgart</a>.
+  I'm a second-year PhD student in <a href="https://www.kuleuven.be/english/kuleuven/" style="color: black; text-decoration: none;"><em>KU Leuven</em></a>, supervised by <a href="https://homes.esat.kuleuven.be/~mblaschk/" style="color: black; text-decoration: none;"><em>Prof. Matthew Blaschko</em></a>. My research interests lie in 3D computer vision and multimodal LLMs. Before that, I got my bachelor degree from <a href="https://english.bit.edu.cn/" style="color: black; text-decoration: none;"><em>Beijing Institute of Technology (BIT)</em></a>, and master degree from <a href="https://www.uni-stuttgart.de/en/" style="color: black; text-decoration: none;"><em>University of Stuttgart</em></a>.
 </div>
 
-<h2 style="font-family: 'Comic Sans MS', cursive, sans-serif;">Publications</h2>
+<h2 style="font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif; margin-top: 40px;">Publications</h2>
 
 <div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">

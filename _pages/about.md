@@ -35,7 +35,7 @@ redirect_from:
       </em>
     </p>
     <p style="margin: 5px 0;">
-      <a href="https://arxiv.org/pdf/2604.03072" style="font-size: 0.9em; color: #4A90E2; text-decoration: none;">Paper</a> | 
+      <a href="https://arxiv.org/pdf/2605.10050" style="font-size: 0.9em; color: #4A90E2; text-decoration: none;">Paper</a> | 
       <a href="https://github.com/renaissanceee/EchoPrune" style="font-size: 0.9em; color: #4A90E2; text-decoration: none;">Code</a>
     </p>
   </div>

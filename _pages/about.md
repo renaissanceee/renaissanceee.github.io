@@ -17,6 +17,32 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
+    <a href="https://arxiv.org/pdf/2605.10050">
+      <img src="./images/echo_logo.png" alt="Echo Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
+    </a>
+  </div>
+  <div style="flex: 1;">
+    <p style="margin: 0;">
+      <a href="https://arxiv.org/pdf/2605.10050" style="color:black; text-decoration:none;">
+        <!-- <span style="color: #666; font-weight: bold;">[preprint]</span>  -->
+        <strong>EchoPrune: Interpreting Redundancy as Temporal Echoes for Efficient VideoLLMs</strong>
+      </a><br>
+      <em style="font-size: 0.95em; color: black;">
+        <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none;">Jiameng Li</a>, 
+        <a href="https://wuminye.github.io/" style="color: black; text-decoration: none;">Minye Wu</a>,
+        <a href="https://www.jiezhangcao.com/" style="color: black; text-decoration: none;">Jiezhang Cao</a>,
+        Aleksei Tiulpin, Matthew B. Blaschko
+      </em>
+    </p>
+    <p style="margin: 5px 0;">
+      <a href="https://arxiv.org/pdf/2604.03072" style="font-size: 0.9em; color: #4A90E2; text-decoration: none;">Paper</a> | 
+      <a href="https://github.com/renaissanceee/EchoPrune" style="font-size: 0.9em; color: #4A90E2; text-decoration: none;">Code</a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
     <a href="https://arxiv.org/pdf/2604.03072">
       <img src="./images/mi_logo.png" alt="MI Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
     </a>
@@ -24,7 +50,7 @@ redirect_from:
   <div style="flex: 1;">
     <p style="margin: 0;">
       <a href="https://arxiv.org/pdf/2604.03072" style="color:black; text-decoration:none;">
-        <span style="color: #666; font-weight: bold;">[preprint]</span> 
+        <!-- <span style="color: #666; font-weight: bold;">[preprint]</span>  -->
         <strong>MI-Pruner: Crossmodal Mutual Information-guided Token Pruner for Efficient MLLMs</strong>
       </a><br>
       <em style="font-size: 0.95em; color: black;">

@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+
+
 <h2 style="font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', cursive, sans-serif; margin-top: 40px;">About me</h2>
 
 <div style="font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', cursive, sans-serif;">

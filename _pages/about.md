@@ -7,12 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
-
 <h2 style="font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', cursive, sans-serif; margin-top: 40px;">About me</h2>
-
-<!-- <div style="font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', cursive, sans-serif;"> -->
-  <!-- I'm a second-year PhD student in <a href="https://www.kuleuven.be/english/kuleuven/" style="color: black; text-decoration: none;"><em>KU Leuven</em></a>, supervised by <a href="https://homes.esat.kuleuven.be/~mblaschk/" style="color: black; text-decoration: none;"><em>Prof. Matthew Blaschko</em></a>. My research interests lie in 3D computer vision and multimodal LLMs. Before that, I got my bachelor degree from <a href="https://english.bit.edu.cn/" style="color: black; text-decoration: none;"><em>Beijing Institute of Technology (BIT)</em></a>, and master degree from <a href="https://www.uni-stuttgart.de/en/" style="color: black; text-decoration: none;"><em>University of Stuttgart</em></a>. -->
   
 <div style="font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', cursive, sans-serif; color: #333333;">
     I'm a second-year PhD student in <a href="https://www.kuleuven.be/english/kuleuven/" style="color: inherit; text-decoration: none;"><em>KU Leuven</em></a>, supervised by <a href="https://homes.esat.kuleuven.be/~mblaschk/" style="color: inherit; text-decoration: none;"><em>Prof. Matthew Blaschko</em></a>. My research interests lie in 3D computer vision and multimodal LLMs. Before that, I got my bachelor degree from <a href="https://english.bit.edu.cn/" style="color: inherit; text-decoration: none;"><em>Beijing Institute of Technology (BIT)</em></a>, and master degree from <a href="https://www.uni-stuttgart.de/en/" style="color: inherit; text-decoration: none;"><em>University of Stuttgart</em></a>.
@@ -20,6 +15,7 @@ redirect_from:
 
 <h2 style="font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif; margin-top: 40px;">Publications</h2>
 
+<!-- Paper 1 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <a href="https://arxiv.org/pdf/2605.10050">
@@ -31,13 +27,12 @@ redirect_from:
       <a href="https://arxiv.org/pdf/2605.10050" style="color:black; text-decoration:none;">
         EchoPrune: Interpreting Redundancy as Temporal Echoes for Efficient VideoLLMs
       </a><br>
-      <!-- <em style="font-size: 0.95em; color: black;"> -->
-      <em style="font-size: 0.95em;">
+      <em style="font-size: 0.95em; color: #333333;">
         <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none;">Jiameng Li</a>, 
         <a href="https://wuminye.github.io/" style="color: inherit; text-decoration: none;">Minye Wu</a>,
         <a href="https://www.jiezhangcao.com/" style="color: inherit; text-decoration: none;">Jiezhang Cao</a>,
         <a href="https://scholar.google.com/citations?user=EFE2gpQAAAAJ&hl=en" style="color: inherit; text-decoration: none;">Aleksei Tiulpin</a>,
-        <a href="https://homes.esat.kuleuven.be/~mblaschk/" style="color: inherit; text-decoration: none;">Matthew B. Blaschko</a>,
+        <a href="https://homes.esat.kuleuven.be/~mblaschk/" style="color: inherit; text-decoration: none;">Matthew B. Blaschko</a>
       </em>
     </p>
     <p style="margin: 5px 0;">
@@ -47,6 +42,7 @@ redirect_from:
   </div>
 </div>
 
+<!-- Paper 2 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <a href="https://arxiv.org/pdf/2604.03072">
@@ -58,7 +54,7 @@ redirect_from:
       <a href="https://arxiv.org/pdf/2604.03072" style="color:black; text-decoration:none;">
         MI-Pruner: Crossmodal Mutual Information-guided Token Pruner for Efficient MLLMs
       </a><br>
-      <em style="font-size: 0.95em; color: black;">
+      <em style="font-size: 0.95em; color: #333333;">
         <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none;">Jiameng Li</a>, Aleksei Tiulpin, Matthew B. Blaschko
       </em>
     </p>
@@ -69,6 +65,7 @@ redirect_from:
   </div>
 </div>
 
+<!-- Paper 3 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <a href="https://arxiv.org/pdf/2511.19199">
@@ -81,8 +78,8 @@ redirect_from:
         <span style="color: #666; font-weight: bold;">[CVPR'26 Findings]</span> 
         CLASH: A Benchmark for Cross-Modal Contradiction Detection
       </a><br>
-      <em style="font-size: 0.95em; color: black;">
-        Teodora Popordanoska*, <a href="https://renaissanceee.github.io/" style="color: inherit; text-decoration: none;">Jiameng Li*</a>, Matthew B. Blaschko
+      <em style="font-size: 0.95em; color: #333333;">
+        Teodora Popordanoska*, <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none;">Jiameng Li*</a>, Matthew B. Blaschko
       </em>
     </p>
     <p style="margin: 5px 0;">
@@ -92,6 +89,7 @@ redirect_from:
   </div>
 </div>
 
+<!-- Paper 4 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <a href="https://arxiv.org/pdf/2505.19585">
@@ -104,7 +102,7 @@ redirect_from:
         <span style="color: #666; font-weight: bold;">[MIDL'26]</span> 
         CARE: Confidence-aware Ratio Estimation for Medical Biomarkers
       </a><br>
-      <em style="font-size: 0.95em; color: black;">
+      <em style="font-size: 0.95em; color: #333333;">
         <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none;">Jiameng Li</a>, Teodora Popordanoska, Aleksei Tiulpin, Sebastian G. Gruber, Frederik Maes, Matthew B. Blaschko
       </em>
     </p>
@@ -115,6 +113,7 @@ redirect_from:
   </div>
 </div>
 
+<!-- Paper 5 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <a href="https://arxiv.org/pdf/2408.06286">
@@ -127,7 +126,7 @@ redirect_from:
         <span style="color: #666; font-weight: bold;">[3DV'25]</span> 
         Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering
       </a><br>
-      <em style="font-size: 0.95em; color: black;">
+      <em style="font-size: 0.95em; color: #333333;">
         <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none;">Jiameng Li</a>, 
         <a href="https://shiyue001.github.io/" style="color: inherit; text-decoration: none;">Yue Shi</a>, 
         <a href="https://www.jiezhangcao.com/" style="color: inherit; text-decoration: none;">Jiezhang Cao</a>, 

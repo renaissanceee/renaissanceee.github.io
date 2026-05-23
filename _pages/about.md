@@ -26,11 +26,10 @@ redirect_from:
   <div style="flex: 1;">
     <p style="margin: 0;">
       <a href="https://arxiv.org/pdf/2605.10050" style="color:black; text-decoration:none;">
-        <!-- <span style="color: #666; font-weight: bold;">[preprint]</span>  -->
-        <!-- <strong>EchoPrune: Interpreting Redundancy as Temporal Echoes for Efficient VideoLLMs</strong> -->
         EchoPrune: Interpreting Redundancy as Temporal Echoes for Efficient VideoLLMs
       </a><br>
-      <em style="font-size: 0.95em; color: black;">
+      <!-- <em style="font-size: 0.95em; color: black;"> -->
+      <em style="font-size: 0.95em;">
         <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none;">Jiameng Li</a>, 
         <a href="https://wuminye.github.io/" style="color: black; text-decoration: none;">Minye Wu</a>,
         <a href="https://www.jiezhangcao.com/" style="color: black; text-decoration: none;">Jiezhang Cao</a>,

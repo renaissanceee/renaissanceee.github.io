@@ -10,7 +10,7 @@ redirect_from:
 <h2 style="font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', cursive, sans-serif; margin-top: 40px;">About me</h2>
   
 <div style="font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', cursive, sans-serif; color: #333333;">
-    I'm a second-year PhD student in <a href="https://www.kuleuven.be/english/kuleuven/" style="color: inherit; text-decoration: none;"><em>KU Leuven</em></a>, supervised by <a href="https://homes.esat.kuleuven.be/~mblaschk/" style="color: inherit; text-decoration: none;"><em>Prof. Matthew Blaschko</em></a>. My research interests lie in 3D computer vision and multimodal LLMs. Before that, I got my bachelor degree from <a href="https://english.bit.edu.cn/" style="color: inherit; text-decoration: none;"><em>Beijing Institute of Technology (BIT)</em></a>, and master degree from <a href="https://www.uni-stuttgart.de/en/" style="color: inherit; text-decoration: none;"><em>University of Stuttgart</em></a>.
+    I'm a second-year PhD student in <a href="https://www.kuleuven.be/english/kuleuven/" style="color: inherit; text-decoration: none;"><em>KU Leuven</em></a>, supervised by <a href="https://homes.esat.kuleuven.be/~mblaschk/" style="color: inherit; text-decoration: none;"><em>Prof. Matthew Blaschko</em></a> and <a href="https://ai.kuleuven.be/members/00007203" style="color: inherit; text-decoration: none;"><em>Prof. Frederik Maes</em></a>. My research interests lie in multimodal LLMs, 3D computer vision, and medical imaging. Before that, I got my bachelor degree from Beijing Institute of Technology, and master degree from University of Stuttgart.
 </div>
 
 <h2 style="font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif; margin-top: 40px;">Publications</h2>

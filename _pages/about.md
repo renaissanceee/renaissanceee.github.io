@@ -69,6 +69,29 @@ redirect_from:
 <!-- Paper 3 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
+    <a href="https://arxiv.org/pdf/2607.21076">
+      <img src="./images/ptq_logo.png" alt="PTQ Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
+    </a>
+  </div>
+  <div style="flex: 1;">
+    <p style="margin: 0;">
+      <a href="https://arxiv.org/pdf/2607.21076" style="color:black; text-decoration:none;">
+        C-PTQ: Unified Channel-wise Sensitivity and Scaling for Post-training Quantization of MLLMs
+      </a><br>
+      <em style="font-size: 0.95em; color: #333333;">
+        <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none;">Jiameng Li</a>, Han Zhou, Matthew B. Blaschko
+      </em>
+    </p>
+    <p style="margin: 5px 0;">
+      <a href="https://arxiv.org/pdf/2607.21076" style="font-size: 0.9em; color: #4A90E2; text-decoration: none;">Paper</a> | 
+      <a href="https://github.com/renaissanceee/CPTQ" style="font-size: 0.9em; color: #4A90E2; text-decoration: none;">Code</a>
+    </p>
+  </div>
+</div>
+
+<!-- Paper 4 -->
+<div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
     <a href="https://arxiv.org/pdf/2511.19199">
       <img src="./images/clash_logo.png" alt="CLASH Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
     </a>
@@ -90,7 +113,7 @@ redirect_from:
   </div>
 </div>
 
-<!-- Paper 4 -->
+<!-- Paper 5 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <a href="https://arxiv.org/pdf/2505.19585">
@@ -114,7 +137,7 @@ redirect_from:
   </div>
 </div>
 
-<!-- Paper 5 -->
+<!-- Paper 6 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <a href="https://arxiv.org/pdf/2408.06286">

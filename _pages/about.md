@@ -18,9 +18,7 @@ redirect_from:
 <!-- Paper 1 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
-    <a href="https://arxiv.org/pdf/2605.10050">
-      <img src="./images/echo_logo.png" alt="Echo Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
-    </a>
+    <img src="./images/echo_logo.png" alt="Echo Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
   </div>
   <div style="flex: 1;">
     <p style="margin: 0;">
@@ -46,9 +44,7 @@ redirect_from:
 <!-- Paper -->
 <div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
-    <a href="https://arxiv.org/pdf/2605.10050">
-      <img src="./images/prose_logo.png" alt="Prose Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
-    </a>
+    <img src="./images/prose_logo.png" alt="Prose Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
   </div>
   <div style="flex: 1;">
     <p style="margin: 0;">
@@ -67,9 +63,7 @@ redirect_from:
 <!-- Paper 2 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
-    <a href="https://arxiv.org/pdf/2604.03072">
-      <img src="./images/mi_logo.png" alt="MI Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
-    </a>
+    <img src="./images/mi_logo.png" alt="MI Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
   </div>
   <div style="flex: 1;">
     <p style="margin: 0;">
@@ -90,9 +84,7 @@ redirect_from:
 <!-- Paper 3 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
-    <a href="https://arxiv.org/pdf/2607.21076">
-      <img src="./images/ptq_logo.png" alt="PTQ Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
-    </a>
+    <img src="./images/ptq_logo.png" alt="PTQ Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
   </div>
   <div style="flex: 1;">
     <p style="margin: 0;">
@@ -113,9 +105,7 @@ redirect_from:
 <!-- Paper 4 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
-    <a href="https://arxiv.org/pdf/2511.19199">
-      <img src="./images/clash_logo.png" alt="CLASH Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
-    </a>
+    <img src="./images/clash_logo.png" alt="CLASH Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
   </div>
   <div style="flex: 1;">
     <p style="margin: 0;">
@@ -137,9 +127,7 @@ redirect_from:
 <!-- Paper 5 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
-    <a href="https://arxiv.org/pdf/2505.19585">
-      <img src="./images/care_logo.png" alt="CARE Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
-    </a>
+    <img src="./images/care_logo.png" alt="CARE Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
   </div>
   <div style="flex: 1;">
     <p style="margin: 0;">
@@ -161,9 +149,7 @@ redirect_from:
 <!-- Paper 6 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
-    <a href="https://arxiv.org/pdf/2408.06286">
-      <img src="./images/mipmap_logo.png" alt="Mipmap-GS Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
-    </a>
+    <img src="./images/mipmap_logo.png" alt="Mipmap-GS Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
   </div>
   <div style="flex: 1;">
     <p style="margin: 0;">

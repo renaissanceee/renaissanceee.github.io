@@ -60,11 +60,7 @@ redirect_from:
         <a href="https://wuminye.github.io/" style="color: inherit; text-decoration: none;">Minye Wu</a>,
         <a href="https://homes.esat.kuleuven.be/~mblaschk/" style="color: inherit; text-decoration: none;">Matthew B. Blaschko</a>
       </em>
-    <!-- </p>
-    <p style="margin: 5px 0;">
-      <a href="https://arxiv.org/pdf/2605.10050" style="font-size: 0.9em; color: #4A90E2; text-decoration: none;">Paper</a> | 
-      <a href="https://github.com/renaissanceee/EchoPrune" style="font-size: 0.9em; color: #4A90E2; text-decoration: none;">Code</a>
-    </p> -->
+    </p>
   </div>
 </div>
 

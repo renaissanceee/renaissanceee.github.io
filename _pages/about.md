@@ -43,6 +43,31 @@ redirect_from:
   </div>
 </div>
 
+<!-- Paper -->
+<div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <a href="https://arxiv.org/pdf/2605.10050">
+      <img src="./images/prose_logo.png" alt="Prose Logo" width="300" style="max-width: 100%; height: auto; border-radius: 8px;">
+    </a>
+  </div>
+  <div style="flex: 1;">
+    <p style="margin: 0;">
+      <a href="https://arxiv.org/pdf/2605.10050" style="color:black; text-decoration:none;">
+        ProSE: Probing Reconstruction Error for Semantic-guided Expert Skipping in MoE-MLLMs
+      </a><br>
+      <em style="font-size: 0.95em; color: #333333;">
+        <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none;">Jiameng Li</a>, 
+        <a href="https://wuminye.github.io/" style="color: inherit; text-decoration: none;">Minye Wu</a>,
+        <a href="https://homes.esat.kuleuven.be/~mblaschk/" style="color: inherit; text-decoration: none;">Matthew B. Blaschko</a>
+      </em>
+    <!-- </p>
+    <p style="margin: 5px 0;">
+      <a href="https://arxiv.org/pdf/2605.10050" style="font-size: 0.9em; color: #4A90E2; text-decoration: none;">Paper</a> | 
+      <a href="https://github.com/renaissanceee/EchoPrune" style="font-size: 0.9em; color: #4A90E2; text-decoration: none;">Code</a>
+    </p> -->
+  </div>
+</div>
+
 <!-- Paper 2 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
   <div style="flex: 0 0 300px; margin-right: 20px;">

@@ -22,10 +22,8 @@ redirect_from:
   </div>
   <div style="flex: 1;">
     <p style="margin: 0;">
-      <a href="https://arxiv.org/pdf/2605.10050" style="color:black; text-decoration:none;">
-        <span style="color: #666; font-weight: bold;">[NeurIPS'26]</span> 
-        EchoPrune: Interpreting Redundancy as Temporal Echoes for Efficient VideoLLMs
-      </a><br>
+      <span style="color: #666; font-weight: bold;">[NeurIPS'26]</span> 
+      EchoPrune: Interpreting Redundancy as Temporal Echoes for Efficient VideoLLMs<br>
       <em style="font-size: 0.95em; color: #333333;">
         <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none;">Jiameng Li</a>, 
         <a href="https://wuminye.github.io/" style="color: inherit; text-decoration: none;">Minye Wu</a>,
@@ -48,9 +46,7 @@ redirect_from:
   </div>
   <div style="flex: 1;">
     <p style="margin: 0;">
-      <a href="https://arxiv.org/pdf/2605.10050" style="color:black; text-decoration:none;">
-        ProSE: Probing Reconstruction Error for Semantic-guided Expert Skipping in MoE-MLLMs
-      </a><br>
+      ProSE: Probing Reconstruction Error for Semantic-guided Expert Skipping in MoE-MLLMs<br>
       <em style="font-size: 0.95em; color: #333333;">
         <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none;">Jiameng Li</a>, 
         <a href="https://wuminye.github.io/" style="color: inherit; text-decoration: none;">Minye Wu</a>,
@@ -67,9 +63,7 @@ redirect_from:
   </div>
   <div style="flex: 1;">
     <p style="margin: 0;">
-      <a href="https://arxiv.org/pdf/2604.03072" style="color:black; text-decoration:none;">
-        MI-Pruner: Crossmodal Mutual Information-guided Token Pruner for Efficient MLLMs
-      </a><br>
+      MI-Pruner: Crossmodal Mutual Information-guided Token Pruner for Efficient MLLMs<br>
       <em style="font-size: 0.95em; color: #333333;">
         <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none;">Jiameng Li</a>, Aleksei Tiulpin, Matthew B. Blaschko
       </em>
@@ -88,9 +82,7 @@ redirect_from:
   </div>
   <div style="flex: 1;">
     <p style="margin: 0;">
-      <a href="https://arxiv.org/pdf/2607.21076" style="color:black; text-decoration:none;">
-        C-PTQ: Unified Channel-wise Sensitivity and Scaling for Post-training Quantization of MLLMs
-      </a><br>
+      C-PTQ: Unified Channel-wise Sensitivity and Scaling for Post-training Quantization of MLLMs<br>
       <em style="font-size: 0.95em; color: #333333;">
         <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none;">Jiameng Li</a>, Han Zhou, Matthew B. Blaschko
       </em>
@@ -109,10 +101,8 @@ redirect_from:
   </div>
   <div style="flex: 1;">
     <p style="margin: 0;">
-      <a href="https://arxiv.org/pdf/2511.19199" style="color:black; text-decoration:none;">
-        <span style="color: #666; font-weight: bold;">[CVPR'26 Findings]</span> 
-        CLASH: A Benchmark for Cross-Modal Contradiction Detection
-      </a><br>
+      <span style="color: #666; font-weight: bold;">[CVPR'26 Findings]</span> 
+      CLASH: A Benchmark for Cross-Modal Contradiction Detection<br>
       <em style="font-size: 0.95em; color: #333333;">
         Teodora Popordanoska*, <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none;">Jiameng Li*</a>, Matthew B. Blaschko
       </em>
@@ -131,10 +121,8 @@ redirect_from:
   </div>
   <div style="flex: 1;">
     <p style="margin: 0;">
-      <a href="https://arxiv.org/pdf/2505.19585" style="color:black; text-decoration:none;">
-        <span style="color: #666; font-weight: bold;">[MIDL'26]</span> 
-        CARE: Confidence-aware Ratio Estimation for Medical Biomarkers
-      </a><br>
+      <span style="color: #666; font-weight: bold;">[MIDL'26]</span> 
+      CARE: Confidence-aware Ratio Estimation for Medical Biomarkers<br>
       <em style="font-size: 0.95em; color: #333333;">
         <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none;">Jiameng Li</a>, Teodora Popordanoska, Aleksei Tiulpin, Sebastian G. Gruber, Frederik Maes, Matthew B. Blaschko
       </em>
@@ -153,10 +141,8 @@ redirect_from:
   </div>
   <div style="flex: 1;">
     <p style="margin: 0;">
-      <a href="https://arxiv.org/pdf/2408.06286" style="color:black; text-decoration:none;">
-        <span style="color: #666; font-weight: bold;">[3DV'25]</span> 
-        Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering
-      </a><br>
+      <span style="color: #666; font-weight: bold;">[3DV'25]</span> 
+      Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering<br>
       <em style="font-size: 0.95em; color: #333333;">
         <a href="https://renaissanceee.github.io/" style="color: #4A90E2; text-decoration: none;">Jiameng Li</a>, 
         <a href="https://shiyue001.github.io/" style="color: inherit; text-decoration: none;">Yue Shi</a>, 

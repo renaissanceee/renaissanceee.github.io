@@ -53,8 +53,11 @@ redirect_from:
         <a href="https://homes.esat.kuleuven.be/~mblaschk/" style="color: inherit; text-decoration: none;">Matthew B. Blaschko</a>
       </em>
     </p>
+    <p style="margin: 5px 0;">
+      <a href="https://arxiv.org/pdf/2611.20885" style="font-size: 0.9em; color: #4A90E2; text-decoration: none;">Paper</a> | 
+      <a href="https://github.com/renaissanceee/ProSE" style="font-size: 0.9em; color: #4A90E2; text-decoration: none;">Code</a>
+    </p>
   </div>
-</div>
 
 <!-- Paper 2 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">

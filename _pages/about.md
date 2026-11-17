@@ -58,6 +58,7 @@ redirect_from:
       <a href="https://github.com/renaissanceee/ProSE" style="font-size: 0.9em; color: #4A90E2; text-decoration: none;">Code</a>
     </p>
   </div>
+</div>
 
 <!-- Paper 2 -->
 <div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Comic Sans MS', 'Chalkboard SE', cursive, sans-serif;">
